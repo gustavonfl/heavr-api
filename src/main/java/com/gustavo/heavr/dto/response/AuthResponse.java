@@ -1,4 +1,4 @@
-package com.gustavo.heavr.dto.request.response;
+package com.gustavo.heavr.dto.response;
 
 public record AuthResponse(
         String token,
